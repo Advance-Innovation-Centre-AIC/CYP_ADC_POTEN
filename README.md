@@ -22,6 +22,7 @@ which include
 These functions will use the ADC to read the potentiomete on CY8CKIT-062S2043012 following this
 
 **poten_read()**
+
 Read the potrntiometer on CY8CKIT board
 
 ## How to use
